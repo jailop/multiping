@@ -5,7 +5,7 @@ simultaneous sites.
 
 It has been tested in Linux and MacOS.
 
-This tools is intended for diagnostic purposes.
+This tool is intended for diagnostic purposes.
 
 ## Rust version
 
@@ -14,6 +14,8 @@ To build it:
     $ cargo build
 
 ## C version
+
+The C version in under the folder `c-impl`
 
     $ make
 
