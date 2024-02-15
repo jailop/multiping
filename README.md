@@ -3,6 +3,8 @@
 It uses the ping command installed in your system to test connections to
 simultaneous sites.
 
+It has been tested in Linux and MacOS.
+
 This tools is intended for diagnostic purposes.
 
 ## Rust version
