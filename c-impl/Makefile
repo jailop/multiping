@@ -1,8 +1,8 @@
 CFLAGS = -Wall -std=gnu99
 
-all: main
+all: multiping
 
-main: strvec.o extractor.o
+multiping: strvec.o extractor.o pingutils.o
 
 clean:
-	rm -fr main strvec.o extractor.o
+	rm -fr multiping strvec.o extractor.o
