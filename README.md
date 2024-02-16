@@ -15,7 +15,7 @@ To build it:
 
 ## C version
 
-The C version in under the folder `c-impl`
+The C version is under the folder `c-impl`
 
     $ make
 
@@ -31,7 +31,7 @@ Example:
 
 Write the targets separated by commas, without spaces between them.
 
-With the previous example, the output should be similar to:
+For the previous example, the output should be similar to:
 
     100.0%
 
