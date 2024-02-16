@@ -7,19 +7,11 @@ It has been tested in Linux and MacOS.
 
 This tool is intended for diagnostic purposes.
 
-## Rust version
+There is a previous version of this program written in C [here](https://github.com/jailop/multiping-c).
 
 To build it:
 
     $ cargo build
-
-## C version
-
-The C version is under the folder `c-impl`
-
-    $ make
-
-## Usage
 
 To get help:
 
