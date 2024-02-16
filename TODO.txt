@@ -1,0 +1,2 @@
+- Try to reduce the number of dependencies
+- Include extractors for Windows
